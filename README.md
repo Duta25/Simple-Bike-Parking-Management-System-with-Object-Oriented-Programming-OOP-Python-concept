@@ -1,11 +1,20 @@
-"""
+# Simple Bike Parking Management System (Python OOP)
 
-this code is just a simple bike parking management system
+This repository contains a simple **Bike Parking Management System** implemented in **Python** using **Object Oriented Programming (OOP)** concepts.
 
-that has just 4 method in Parking Class:
+This project is created for learning and practicing OOP fundamentals including:
+- Classes and Objects
+- Encapsulation
+- Basic method logic
+- Simple user flow for parking and calculating fees
 
-info(), parking(), calculate_the_price(), and bike_data()
+---
 
-disclaimer: its just my first practice using OOP concept and realized its not perfect code for copying
+## Features
 
-"""
+✔ Park a bike (with type, brand, and plate number)  
+✔ View parking status  
+✔ Calculate parking charge based on time and bike type  
+✔ Remove bike upon exit
+
+---
